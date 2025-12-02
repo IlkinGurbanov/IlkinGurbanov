@@ -1,6 +1,6 @@
 #Hi,My name is Ilkin.This is my new Github account. I collect all important repos in this account.
 # 💫 About Me:
-🔭 I’m currently working on multiple projects<br>👯 I’m looking to collaborate on GoTalker chat project<br>🤝 I’m looking for help with chat APIs<br>🌱 I’m currently learning Agile methodology<br>💬 Ask me about Sofware development<br>
+🔭 I’m currently working on multiple projects<br>👯 I’m looking to collaborate on GoTalker chat project<br>🤝 I’m looking for help with chat APIs<br>🌱 I’m currently learning Agile methodology<br>💬 Ask me about Software development<br>
 
 
 ## 🌐 Socials:
